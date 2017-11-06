@@ -3944,7 +3944,8 @@ cite {
 }
 
 .main_header .logo {
-  color: #05704B;
+  /*color: #05704B;*/
+   color: #222;
   margin: 0;
   font-size: 2rem;
   text-decoration: none;
