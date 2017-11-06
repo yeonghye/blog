@@ -3972,7 +3972,7 @@ cite {
 
 #banner .content .title, #banner .content .sub_title {
   text-align: center;
-  color: #ffffff;
+ /* color: #ffffff;*/
 }
 
 #banner .content .title {
