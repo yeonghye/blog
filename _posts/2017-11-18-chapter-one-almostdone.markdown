@@ -4,7 +4,7 @@ title: "나이가 들면 변하는 것들 by almostDone"
 img: canyon.jpg
 date: 2017-11-18 15:49:00 
 description: 나이가 들면 변하는 것들 by almostDone
-tag: [sometimes], [chpater-one]
+tag:[chpater-one]
 ---
 
 
