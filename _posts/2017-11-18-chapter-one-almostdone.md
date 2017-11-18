@@ -2,7 +2,7 @@
 layout: post
 title: "나이가 들면 변하는 것들"
 img: alaska.jpg
-date: 2017-11-18 15:39:00 
+date: 2017-11-18 15:49:00 
 description: 나이가 들면 변하는 것들
 tag: [sometimes], [chpater-one]
 ---
