@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "나이가 들면 변하는 것들"
+title: "나이가 들면 변하는 것들 by u"
 img: alaska.jpg
 date: 2017-11-18 15:39:00 
-description: 나이가 들면 변하는 것들
+description: 나이가 들면 변하는 것들 by u
 tag: [sometimes], [chpater-one]
 ---
 
